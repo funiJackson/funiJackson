@@ -16,4 +16,4 @@ MSc Computer Science, Newcastle University.
 
 ### Elsewhere
 
-[fandizhou00@gmail.com](mailto:fandizhou00@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fandi-zhou-55a259350/) · [C5052054@newcastle.ac.uk](mailto:C5052054@newcastle.ac.uk)
