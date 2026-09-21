@@ -1,6 +1,7 @@
-![Jackson Zhou Fandi — Product Engineer](banner.svg)
-
-**I design it, build it, ship it — and make the AI behave.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img alt="Hi! I'm Jackson — designer, engineer and developer" src="banner-light.svg" width="720">
+</picture>
 
 MSc Computer Science, Newcastle University.
 
